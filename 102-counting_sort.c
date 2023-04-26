@@ -74,3 +74,4 @@ for (i = 0; i < size; i++)  /* update array */
 array[i] = sorted[i];
 free(sorted);
 }
+
