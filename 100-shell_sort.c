@@ -96,3 +96,4 @@ seq_index++;
 free(sequence);
 free(rev_seq);
 }
+

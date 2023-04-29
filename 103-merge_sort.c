@@ -84,3 +84,4 @@ return;
 parser(array, 0, size - 1, clone);
 free(clone);
 }
+
